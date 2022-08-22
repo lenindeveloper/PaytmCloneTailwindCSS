@@ -1,0 +1,12 @@
+{
+  "name": "paytmclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "npx tailwindcss build ./src/input.css -o ./dist/output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
