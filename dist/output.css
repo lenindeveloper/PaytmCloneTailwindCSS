@@ -972,12 +972,12 @@ video {
   padding-right: 5rem;
 }
 
-.pl-4 {
-  padding-left: 1rem;
-}
-
 .pr-10 {
   padding-right: 2.5rem;
+}
+
+.pl-4 {
+  padding-left: 1rem;
 }
 
 .pt-6 {
